@@ -1,0 +1,14 @@
+da:
+  landlord:
+    property:
+      photo:
+        title: Annonce foto 
+        desc: Primært foto af dit hjem
+        change: Skift primært foto
+        take_picture: Tag dit foto og gem med det samme
+        upload_files: Upload fra dine filer 
+        skip_notice: Du kan skippe 'Annonce foto' til senere
+      video: 
+        title: Annonce video
+
+

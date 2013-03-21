@@ -1,0 +1,17 @@
+da:
+  landlord:
+    registration:
+      info:
+        title: Hvorfor udleje gennem os?
+        video:
+          title: Hvorfor registrere dig som udlejer?
+        benefits:
+          - Lejligheder bliver vist i hele verden
+        offer:
+          title: "{count} annoncer kan indsættes gratis"
+          note: "Yderligere annoncer koster 100 kr ekstra per styk" 
+
+
+
+
+

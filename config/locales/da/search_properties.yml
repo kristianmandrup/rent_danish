@@ -1,0 +1,39 @@
+da:
+  search:
+    agents:
+      title: Agents
+    favorites:
+      title: Favoritter
+    properties:
+      title: Søg boliger
+      notice:
+        results_found: "%{count} annoncer blev fundet."
+        please_refine: "Venligst uddyb din søgning"
+      type:
+        any: Alle typer boliger
+      rooms:
+        any: Alle antal værelser
+      furnished:
+        any: Møbleret eller ej
+      radius:
+        any: Hele Storkøbenhavn
+      sqm:
+        any: Alle størrelse
+        more_than: Større end
+        less_than: Mindre end
+        up_to: Op til
+      price:
+        any: Alle priser
+        more_than: Over
+        less_than: Under
+      period:
+        from: Fra
+        to: Til
+        asap: Snarest muligt
+        month_interval: "%{from} til %{to} måneder"
+      allows:
+        title: Tillader
+        pets: Husdyr
+        smoking: Rygning
+      button:
+        label: Søg boliger

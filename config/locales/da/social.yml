@@ -1,0 +1,9 @@
+da:
+  facebook:
+    like: Like
+    error: 
+      connect: Der skete en fejl i forbindelsen med Facebook
+  twitter:
+    tweet: Tweet
+    error: 
+      connect: Der skete en fejl i forbindelsen med Twitter

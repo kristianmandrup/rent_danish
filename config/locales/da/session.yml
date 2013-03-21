@@ -1,0 +1,11 @@
+da:
+  login:
+    forgot_password:
+      label: Glemt kodeord
+      desc: Jeg har glemt mit kodeord
+      send: Send mit kodeord
+    error: Forkert e-mail eller kodeord. Prøv igen
+    button: Log ind
+  logout:
+    button: Log ud
+    notice: Du er nu logget ud

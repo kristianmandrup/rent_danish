@@ -1,0 +1,29 @@
+da:
+  landlord:
+    property:
+      details:
+        rental_period:
+          title: Lejeperiode detaljer
+          post_on: Publicer lejligheden på denne data
+          publish_date: Puliceringsdato
+          longer_stay: Mulighed for længere periode med ny kontrakt
+          second_period: 
+            label: Anden udlejningseriode
+            post_too: Publicer også denne periode
+        price:
+          title: Priser
+          rent: Leje
+          utilities: Utilities
+          tv: TV
+          internet: Internet
+          other: Andet
+          total_rent: Leje totalt
+          deposit: Depositum
+          prepaid_rent: Forudbetalt leje
+        quick_desc:
+          title: Hurtig beskrivelse
+          notice: Træk auto-genererede sætninger ned til din egen beskrivelse
+        mail_prefs:
+          title: Mail præferencer
+          limit_contacts: Sæt en grænse for antallet af kontakter
+          number: "De første %{number} udlejere"

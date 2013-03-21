@@ -1,0 +1,25 @@
+da:
+  landlord:
+    property:
+      gallery:
+        photos:
+          title: Fotos
+          next: Næste foto
+          previous: Forrige foto
+          crop: Skær til
+          rotate: Rotér
+          trash: Slet
+          take: Tag et billede og brug det
+          upload: 
+            album: Upload foto fra dit foto album
+            facebook: Benyt foto fra Facebook album
+            picasa: Benyt foto fra Picasa
+        videos:
+          title: Videoer
+          next: Næste video
+          previous: Forrige video
+          preview: Se video
+          take: Optag video og brug den
+          upload: 
+            album: Upload video fra dit video album
+            facebook: Benyt video fra Facebook album

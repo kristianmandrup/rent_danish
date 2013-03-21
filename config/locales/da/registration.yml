@@ -1,0 +1,21 @@
+da:
+  registration:
+    via: Registrer via
+    facebook: Facebook
+    twitter: Twitter
+    email: E-mail
+    password: Kodeord
+    privacy_policy:
+      accept: Jeg accepterer persondata politikken
+      must_accept: Du skal accepterer persondata politikken for at blive registreret
+    info:
+      title: Hvorfor os?
+      video:
+        title: Hvorfor registrere dig?
+        play: Afspil
+        cancel: Afbryd
+      benefits:
+        - Billigste udlejningsportal i Skandinavien
+        - Sikkerheden i top
+        - Personaliserede emails
+        - Hjælp med kontrakter mv.

@@ -1,0 +1,11 @@
+da:
+  landlord:
+    property:
+      contact:
+        title: Kontakt præferencer
+        phone:
+          label: Telefon
+          only_sms: Kun SMS
+          always_display: Vis altid
+          alternative: Alternativ
+        skip_notice: Du kan skippe 'Kontakt' og udfylde dem senere

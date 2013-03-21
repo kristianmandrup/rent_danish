@@ -1,0 +1,10 @@
+da:
+  tenant:
+    property:
+      contacts: "%{number} brugere har allerede kontaktet udlejeren"
+      contact:
+        title: Kontakt udlejer
+        phone:
+          call: Ring til udlejer
+        mail:
+          write: Skriv til udlejer

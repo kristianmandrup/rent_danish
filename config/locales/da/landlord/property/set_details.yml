@@ -1,0 +1,15 @@
+da:
+  landlord:
+    property:
+      details:
+        title: Detaljer for dit hjem
+        type: Type
+        rooms: Værelser
+        bedrooms: Soveværelser
+        furnished: Møbler
+        floor: Sal
+        size_sqm: Størrelse kvm
+        rent_price: Leje kr/md.
+        more: Flere detaljer
+        skip_notice: Du kan udfylde 'Flerre detaljer' senere
+

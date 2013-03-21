@@ -1,0 +1,9 @@
+da:
+  landlord:
+    property:
+      location:
+        title: Find dit hjem
+        advice: Søg på din adresse
+        find:
+          success: Google fandt din adresse
+          error: Google kunne ikke finde din adresse. Prøv igen.

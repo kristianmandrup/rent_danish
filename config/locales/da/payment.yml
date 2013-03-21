@@ -1,0 +1,22 @@
+da:
+  payment:
+    info:
+      full_name: Dit fulde navn
+      address: Din addresse
+      city: By
+      country: Land
+      choose_country: Vælg et land
+    card:
+      choose_card_type: Vælg en kort type
+      number: Kort nummer
+      expiry_date: Udløbsdato
+      security_code: Sikkerhedskode
+      save: Gem min annonce og betal
+      error:
+        invalid: Kortet er ikke validt
+        expired: Kortets udløbsdato er overskredet
+        invalid_number: "Kort nummeret er ikke valid. Det skal være %{number} ciffre"
+    cards:
+      - Visa
+      - Mastercard
+      - Dankort

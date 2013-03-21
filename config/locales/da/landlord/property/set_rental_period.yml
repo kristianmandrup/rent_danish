@@ -1,0 +1,13 @@
+da:
+  landlord:
+    property:
+      rental_period:
+        title: Udlejningsperiode
+        start_date: Start dato
+        end_date: Slut dato
+        asap: Snarest muligt
+        period:
+          years: "%{years} år"
+        post_as_period: Klik her for at udleje i et fleksibelt tidsspænd
+        searchable: Annoncen er nu søgbar
+

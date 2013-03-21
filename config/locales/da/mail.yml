@@ -1,0 +1,39 @@
+da:
+  mail:
+    inbox:
+      title: Indbakke
+    sentbox:
+      title: Sendtbakke      
+    trashbox:
+      title: Skraldespand
+      undelete: Fortryd slet
+      delete: Slet helt
+    message:
+      title: Besked
+      reply:
+        title: Svar
+        send_button: Send svar
+    trash: Smid ud
+    reply: Svar
+    bookmark: Vigtig
+    drag_selected_here: Træk og flyt beskeder her
+    search:
+      label: Søg i beskeder
+    sort:
+      label: Sortér
+      inside_box_notice: Træk mig ind i boksen for at sortere på mig
+      button: Sortér beskeder
+    filter:
+      label: Filter
+      inside_box_notice: Træk mig ind i boksen for at filtrere på mig
+      button: Filtrér beskeder
+    priority:
+      user_name: Navne alfabetisk
+      new: Nyeste først
+      old: Ældste først
+      replied: Svaret på
+      not_replied: Ikke svaret på
+      bookmarked: Vigtige
+      not_bookmarked: Ikke vigtige
+      read: Læst
+      not_read: Ikke læst

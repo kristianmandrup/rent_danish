@@ -1,0 +1,12 @@
+da:
+  landlord:
+    property:
+      description:
+        title: Lejlighedens beskrivelse
+        auto_generated:
+          use: Benyt auto-genereret beskrivelse
+          edit: Du kan også redigere den auto-genererede beskrivelse
+        use: Brug egen beskrivelse
+        try_premade: Brug de auto-genererede sætninger
+        approve_and_view: Godkend
+
